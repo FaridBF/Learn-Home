@@ -19,6 +19,7 @@
 ## Models via Figma:
 
 - Consulter l'intégralité des maquettes au format Desktop et Mobile via [Figma](https://www.figma.com/file/QR727Lky6lFQKACPa2fHbq/Maquette-Learn%40Home?type=design&node-id=0-1&mode=design)
+- Cliquez [ici](https://github.com/FaridBF/Learn-Home/blob/main/Model/Maquettes.pdf) pour voir le fichier sous format PDF.
 
 <img src ="./Model/DashboardDesktop.png" title = "Learn-Home" alt = "DashboardDesktop" />
 <img src ="./Model/DashboardMobile.png" title = "Learn-Home" alt = "DashboardMobile" />
